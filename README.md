@@ -33,6 +33,8 @@ Markdowp is a lightweight markup language that you can use to add formatting ele
 
 ![This is an image](https://c8.alamy.com/compfr/2bxethr/illustration-amusante-du-vecteur-singe-dans-un-dessin-amusant-de-style-dessin-anime-2bxethr.jpg)
 
+link to [Markdown](markdown.md)
 
+![This is an image](https://media4.giphy.com/media/eNkinmRoeqYhDvU476/giphy.gif?cid=ecf05e47wf719cts9gk4vjw7gbwv9bq1v6vqi7iu5umjnrlf&rid=giphy.gif&ct=g)
 
 
