@@ -31,7 +31,7 @@ Markdowp is a lightweight markup language that you can use to add formatting ele
 
 # You can also add images
 
-![This is an image] (https://c8.alamy.com/compfr/2bxethr/illustration-amusante-du-vecteur-singe-dans-un-dessin-amusant-de-style-dessin-anime-2bxethr.jpg)
+![This is an image](https://c8.alamy.com/compfr/2bxethr/illustration-amusante-du-vecteur-singe-dans-un-dessin-amusant-de-style-dessin-anime-2bxethr.jpg)
 
 
 
